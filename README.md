@@ -1,4 +1,4 @@
-<p align="left">Tecnologias</p>
+<h2 align="left">Tech</h2>
 
 ###
 
@@ -14,7 +14,28 @@
 
 ###
 
-<p align="left">Estatisticas</p>
+<h2 align="left">Social media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.facebook.com/profile.php?id=100095191653280" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="www.linkedin.com/in/ antonio-vinicius-gomes-pereira-7457b2321 Nome fantasia da URL" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="antoniolprogramador@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="38997221903" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Stats</h2>
 
 ###
 
