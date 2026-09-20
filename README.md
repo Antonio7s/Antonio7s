@@ -18,14 +18,14 @@
 
 ## 👋 Sobre mim
 
-Sou **desenvolvedor Full Stack Sênior**, focado em **backend Java/Spring Boot** e em construir sistemas que continuam de pé quando as integrações externas falham.
+Sou **desenvolvedor Full Stack Sênior**, focado em **backend** e em construir sistemas que continuam de pé quando as integrações externas falham.
 
 - 🏦 Atuo em **sistemas financeiros de missão crítica**: microsserviços, **Resilience4j (circuit breaker)**, **idempotência** e consistência transacional.
 - ☁️ Deploy e monitoramento na **AWS** (EC2, S3, RDS, ECS) com Docker e CI/CD.
 - 🤖 Integro **LLMs (OpenAI, Gemini)** e agentes de IA a sistemas corporativos.
 - 🎓 Certificações **OpenAI Academy (2026)**: Agents and Workflows, Applied AI Foundations, AI Foundations.
 - 📝 Graduado em **Letras (Português/Inglês)**: escrevo documentação técnica e explico decisões de arquitetura com clareza.
-- 📍 Mato Verde, MG · trabalho **100% remoto** · em software desde **2018**.
+- 📍 Mato Verde, MG · trabalho **100% remoto** · em software desde **2016**.
 
 ---
 
