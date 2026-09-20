@@ -51,9 +51,8 @@ Sou **desenvolvedor Full Stack Sênior**, focado em **backend** e em construir s
 | Projeto | O que faz | Stack | Links |
 |---|---|---|---|
 | **SentinelOps** | Sistema **multiagente de detecção de fraude financeira**, feito para o hackathon All Things Agentic | Java, Spring Boot, Gemini, Google ADK | [Código](https://github.com/Antonio7s/SentinelOps) |
+| **IncidentCommander** | Agente autônomo de **gestão de incidentes**: ingere alertas (Grafana/Datadog), faz triagem com Gemini, busca runbooks via RAG local (ChromaDB), abre um "war room" multicanal (Slack, Email, Telegram) e gera post-mortems automáticos. Feito para o Caspian Buildathon 2026 | Python, FastAPI, Gemini, ChromaDB, SQLite | [Código](https://github.com/Antonio7s/incident-commander) |
 | **Guarani** | Monitoramento bioacústico da Amazônia com **RAG** (Gemini + ChromaDB), mapa, forma de onda e painel analítico | Python, Gemini, ChromaDB, Leaflet, Chart.js | [Código](https://github.com/Antonio7s/Guarani) |
-| **Fiscaly** | SaaS para pequenas empresas se adaptarem às mudanças fiscais 2025-2026 (NFS-e, NFC-e, Simples Nacional), com **assinaturas recorrentes** e portal do contador | Next.js, Supabase (RLS), Mercado Pago, Focus NFe | [Demo](https://fiscaly-zeta.vercel.app) |
-| **OrçaZap** | Importação de dados de custos da construção civil (**SINAPI**), com leitor de XLSX em *streaming* para arquivos grandes | PHP | [Demo](https://orcazap.alwaysdata.net) |
 
 > Mais projetos nos meus [repositórios](https://github.com/Antonio7s?tab=repositories).
 
