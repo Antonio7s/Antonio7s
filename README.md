@@ -8,9 +8,10 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/antoniovpro/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:antoniolprogramador@gmail.com"><img src="https://img.shields.io/badge/Email-Falar%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://stackup-software.netlify.app/"><img src="https://img.shields.io/badge/Site-Stackup%20Software-2c5364?style=for-the-badge" alt="Site" /></a>
+<a href="https://wa.me/5538997221903"><img src="https://img.shields.io/badge/WhatsApp-Chamar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://antoniovinicius.netlify.app/"><img src="https://img.shields.io/badge/Site-Portf%C3%B3lio-2c5364?style=for-the-badge" alt="Site" /></a>
 
 </div>
 
